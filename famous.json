@@ -12,5 +12,13 @@
     "kevin" : {
     "name" : "Kevin Hart",
         "singer":true
+        },
+    	"Benito": {
+    		"full name": "Benito Antonio Martínez Ocasio",
+    		"other names": ["Bad Bunny", "Conejo Malo"],
+    		"wikipedia": "https://en.wikipedia.org/wiki/Bad_Bunny",
+    		"born": 1994,
+    		"place of birth": "Puerto Rico, U.S",
+    		"author": false
+    	}
     }
-}
