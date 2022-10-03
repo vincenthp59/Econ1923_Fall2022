@@ -74,6 +74,14 @@
 		"height_inches" : 65,
 		"tv show" : ["Seinfeld", "Young Sheldon", "Curb Your Enthusiasm"],
 		"author" : true
+	},
+"Benito": {
+		"full name": "Benito Antonio Martínez Ocasio",
+		"other names": ["Bad Bunny", "Conejo Malo"],
+		"wikipedia": "https://en.wikipedia.org/wiki/Bad_Bunny",
+		"born": 1994,
+		"place of birth": "Puerto Rico, U.S",
+		"author": false
 	}
 		
 }
